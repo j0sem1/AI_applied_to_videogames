@@ -48,8 +48,8 @@ docs/
 ## Authors
 University team project — Universidad de Murcia, *Artificial Intelligence for Game Development*.
 - José Miguel Sánchez Almagro ([@j0sem1](https://github.com/j0sem1))
-- Vlad ==(GitHub handle?)==
-- Nicolás Fuentes ==(GitHub handle?)==
+- Vladyslav Grechyshkin ([@mvgician](https://github.com/mvgician))
+- Nicolás Fuentes Turpín ([@nicofutur8](https://github.com/nicofutur8))
 
 > ⚠️ Published with the agreement of all co-authors.
 
