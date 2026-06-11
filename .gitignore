@@ -1,0 +1,16 @@
+# This repo is a C# source-code showcase, not a full Unity project.
+# Unity-generated folders (never commit these):
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+.vscode/
+.idea/
+
+# OS / editor
+.DS_Store
+*.csproj
+*.sln
