@@ -51,8 +51,6 @@ University team project — Universidad de Murcia, *Artificial Intelligence for 
 - Vladyslav Grechyshkin ([@mvgician](https://github.com/mvgician))
 - Nicolás Fuentes Turpín ([@nicofutur8](https://github.com/nicofutur8))
 
-> ⚠️ Published with the agreement of all co-authors.
-
 ## Assets & credits *(why this isn't the runnable game)*
 The original university project was themed with **third-party assets** that are **not redistributable**
 and are therefore **excluded** from this repository:
